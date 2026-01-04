@@ -3,7 +3,6 @@
 bin/
 firecracker-vps
 tmp/
-lib/
 
 node_modules
 
@@ -31,3 +30,4 @@ vite.config.ts.timestamp-*
 
 #dev
 .vscode
+WEB/notes.md
